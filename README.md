@@ -48,7 +48,7 @@ The Online Shopping Management System is a comprehensive platform that enables u
 - nodemon
 - validator
 
-<h2 align="left"> 1. **Database Structure</h2>
+<h2 align="left"> 1. Database Structure</h2>
 
 The platform will require a relational database to manage User And Tasks . Below is a proposed database structure with the key tables.
 
@@ -190,7 +190,7 @@ The platform will require a relational database to manage User And Tasks . Below
 - Products are categorized into main categories and subcategories for organization.
 - Admins can manage product categories and assign products accordingly.
 
-<h2 align="left">Development with ZenDevx:</h2>
+<h2 align="left">Development with ZenDevX:</h2>
 
 <a href="https://www.zendevx.com/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7dd7220f-e83c-4490-9ac2-beab3bcf8c35" alt="ZenDevX" height="auto" width="auto" /></a>
 
