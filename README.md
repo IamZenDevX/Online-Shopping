@@ -1,5 +1,5 @@
 # Online-Shopping
-Online Shopping Management
+
 <h2 align="left">Introduction:</h2>
 
 The Online Shopping Management System is a comprehensive platform that enables users to browse, purchase, and manage products through an e-commerce platform. The system also allows administrators and store managers to handle product listings, inventory, and customer orders. This repository includes the backend components necessary for a fully functional online shopping experience, handling user accounts, product management, cart functionality, and order processing.
